@@ -10,5 +10,5 @@ conda create -n cnncls python=3.8 -y
 
 '''conda activate cnncls
 
-'''bash 
+'''bash
 pip install -r requirements.txt

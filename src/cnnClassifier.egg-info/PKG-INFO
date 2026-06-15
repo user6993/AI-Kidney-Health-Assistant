@@ -1,0 +1,37 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small package for CNN Classifier
+Home-page: https://github.com/DEEPAK yadav/AI-Kidney-Health-Assistant
+Author: DEEPAK yadav
+Author-email: updeepak222@gmail.com
+Project-URL: bug tracker, https://github.com/DEEPAK yadav/AI-Kidney-Health-Assistant/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8,<3.12
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: requires-python
+Dynamic: summary
+
+# AI-Kidney-Health-Assistant
+
+clone the repository
+
+'''bash
+https://github.com/user6993/AI-Kidney-Health-Assistant
+
+'''bash
+conda create -n cnncls python=3.8 -y
+
+'''conda activate cnncls
+
+'''bash
+pip install -r requirements.txt
